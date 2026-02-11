@@ -75,4 +75,15 @@ img{
     left: 0;
     width:650px;
     bottom: -50px;
+
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: #ffff;
+  text-align: center;
+  padding: 15px 10px;
+  font-size: 14px;
 }
